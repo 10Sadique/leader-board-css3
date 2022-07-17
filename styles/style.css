@@ -77,8 +77,8 @@ hr {
 .blog {
     display: flex;
     box-shadow: 0px 5.34229px 13.3557px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    padding: 15px;
+    border-radius: 15px;
+    padding: 20px;
 }
 
 .blog .thumbnail img {
@@ -191,7 +191,7 @@ hr {
     }
 
     .blog {
-        margin: 10px;
+        margin-bottom: 10px;
     }
 
     .blog .thumbnail img {
